@@ -17,6 +17,12 @@
       "day": "WSDASD",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Run",
+      "day": "5th May",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
